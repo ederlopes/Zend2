@@ -9,3 +9,6 @@ http://rogerdudler.github.com/git-guide/index.pt_BR.html
 
 usando o git e github - tutorial 
 http://rafaelsart.com/tutorial/tutorial_git_github.pdf
+
+libro de git
+http://git-scm.com/book
