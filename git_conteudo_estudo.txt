@@ -1,4 +1,4 @@
-CRIAÇÃO DA CONTA NO GIT 
+CRIAï¿½ï¿½O DA CONTA NO GIT 
 http://blog.dmatoso.com/2011/09/git-no-windows-github/
 
 COMANDOS BASICOS GIT
@@ -12,3 +12,6 @@ http://rafaelsart.com/tutorial/tutorial_git_github.pdf
 
 libro de git
 http://git-scm.com/book
+
+novo tutorial bem explicativo
+http://akitaonrails.com/2008/4/3/micro-tutorial-de-git#.UHV76K5OSSo
